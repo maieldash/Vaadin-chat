@@ -4,6 +4,8 @@
 
 This is a chat application built with Spring Boot and Vaadin Flow UI. The application allows users to create chat channels, send messages, and view message history in real-time. 
 
+![Chat Lobby](screenshots/lobby.png)
+
 ## Features
 
 - **User Authentication**: Secure login for users and an admin role.
